@@ -1,1 +1,2 @@
-Run a new directory
+open a new directory
+Save
